@@ -18,32 +18,32 @@
   Hi, 
   <br>
   <br>
-  🔬 I'm currently studying for a master's degree in Atatürk University Computer Engineering Department
+  🔬 
   <br>
-  🎓 I graduated from Black Sea Technical University Computer Engineering Department
+  🎓 
   <br>
-  🎓 I graduated from Erzurum İbrahim Hakkı Science High School
+  🎓 
   <br>
-  💻 I love writing code and learn anythings about it
+  💻 
   <br>
-  📚 I’m currently learning how to build E-Commerce Website with Django
+  📚 
   <br>
-  💬 Ask me anything about from <a href="https://github.com/zumrudu-anka/zumrudu-anka/issues" title="Issues">Here</a>
+  💬 
   <br>
-  📫 How to reach me: <a href="mailto: osmandurdag@hotmail.com">osmandurdag@hotmail.com</a>
+  📫 
 </p>
 
 <hr>
 <h2 align="center">🔥 Languages & Frameworks & Tools & Abilities 🔥</h2>
 <br>
 <p align="center">
-  <code><img title="Python" height="25" src="images/python.png"></code>
-  <code><img title="tensorflow" height="25" src="images/tensorflow.jpg"></code>
-  <code><img title="keras" height="25" src="images/keras.png"></code>
-  <code><img title="javascript" height="25" src="images/javascript.png"></code>
-  <code><img title="flask" height="25" src="images/flask.png"></code>
-  <code><img title="android" height="25" src="images/android.png"></code>
-  <code><img title="java" height="25" src="images/java.png"></code>
+  <code><img title="Python" width="25" height="25" src="images/python.png"></code>
+  <code><img title="tensorflow" width="25"  height="25" src="images/tensorflow.jpg"></code>
+  <code><img title="keras" width="25"  height="25" src="images/keras.png"></code>
+  <code><img title="javascript" width="25"  height="25" src="images/javascript.png"></code>
+  <code><img title="flask" width="25"  height="25" src="images/flask.png"></code>
+  <code><img title="android" width="25"  height="25" src="images/android.png"></code>
+  <code><img title="java" width="25"  height="25" src="images/java.png"></code>
 </p>
 <hr>
 
