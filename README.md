@@ -59,7 +59,7 @@
       <img align="right" height=200 width=420 src="https://github-readme-stats.vercel.app/api?username=gautamsingh102&show_icons=true&locale=en&theme=react" alt="gautamsingh102" />
     </a>
   </div>
-  <br><br><br><br><br><br><br><br><br>
+  <br><br><br><br><br><br><br><br><br><br>
   <div align=center>
     <a href="">
       <img align=center width=420 align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gautamsingh102&theme=radical" alt="gautamsingh102" />
