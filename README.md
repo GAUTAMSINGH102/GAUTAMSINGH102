@@ -1,10 +1,10 @@
 <!-- [![MasterHead](images/banner.png)]() -->
 
-<h1 align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Gautam+Singh....;Nice+to+meet+you!&center=true&size=30">
-  </a>
-</h1>
+<p align="center">
+  <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+    <img src="https://readme-typing-svg.demolab.com/?lines=Hi+👋,+Nice+To+See+You!;If+you+know+me+then+follow+me+😂;And+If+You+don't+know+me+🤔+🤔;Then,+Let's+Collaborate+👨‍💻+👨‍💻;Coder's+Assemble+🧑‍🤝‍🧑+🧑‍🤝‍🧑+🧑‍🤝‍🧑+🧑‍🤝‍🧑+🧑‍🤝‍🧑&font=Fira%20Code&center=true&width=640&height=45&color=f75c7e&vCenter=true&pause=1000&size=22" /></a>
+</p>
 
 <h5 align="center">
   <code><a href="" title="LinkedIn Profile"><img width="22" src="images/linkedin.png"> LinkedIn</a></code>
