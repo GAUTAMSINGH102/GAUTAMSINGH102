@@ -1,3 +1,5 @@
+[![MasterHead](images/banner.png)]()
+
 <h1 align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Gautam+Singh....;Nice+to+meet+you!&center=true&size=30">
@@ -20,16 +22,14 @@
 - 🚀 &nbsp; I’m currently learning Machine Learning and Deep Learning.
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/GAUTAMSINGH102).
 - 💬 &nbsp; Ask me about anything [here](https://github.com/GAUTAMSINGH102/GAUTAMSINGH102/issues/2)! I am happy to help.
-- 👾 &nbsp; Fun fact: I will let you know when I know it myself.
-- 📫 &nbsp; How to reach me: gautamsingh.00721@@gmail.com.
 - 📝 &nbsp; Checkout my [Resume]().
+- 🤣 &nbsp; Fun fact: I will let you know when I know it myself. Ha Ha Hi Hi Ho Ho 🤣🤣
 
 
 
 ### My Absolute Favorites:
 
 - 💻 &nbsp; I love exploring new tech stack and building cool stuffs.
-- 📰 &nbsp; Reading & writing tech blogs whenever possible.
 - 🍕 &nbsp; Hackathons, meetups & tech events.
 
 <br>
