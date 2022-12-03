@@ -37,7 +37,13 @@
 <h2 align="center">🔥 Languages & Frameworks & Tools & Abilities 🔥</h2>
 <br>
 <p align="center">
-  <code><img title="C" height="25" src="images/c.svg"></code>
+  <code><img title="Python" height="25" src="images/python.png"></code>
+  <code><img title="tensorflow" height="25" src="images/tensorflow.jpg"></code>
+  <code><img title="keras" height="25" src="images/keras.png"></code>
+  <code><img title="javascript" height="25" src="images/javascript.png"></code>
+  <code><img title="flask" height="25" src="images/flask.png"></code>
+  <code><img title="android" height="25" src="images/android.png"></code>
+  <code><img title="java" height="25" src="images/java.png"></code>
 </p>
 <hr>
 
