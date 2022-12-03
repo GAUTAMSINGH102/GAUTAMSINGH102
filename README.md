@@ -16,11 +16,11 @@
 
 ### Talking about Personal Stuffs:
 
-<img align="right" height="250" width="375" alt="" src="images/side.gif" />
+<img align="right" height="250" width="385" alt="" src="images/side.gif" />
 
 - 🛠 &nbsp; I’m currently working with Tensorflow, PyTorch, Keras, <br /> Flask, Django, Javascript, etc.
 - 🚀 &nbsp; I’m currently learning Machine Learning and Deep Learning.
-- 🤝 &nbsp; Always ready to collaborate in Machine Learning or Deep Learning Projects.
+- 🤝 &nbsp; Always ready to collaborate in any ML or DL Projects.
 - 💬 &nbsp; Ask me about anything(Not Anything 😊) [here](https://github.com/GAUTAMSINGH102/GAUTAMSINGH102/issues/)!
 - 📝 &nbsp; Checkout my [Resume]().
 - 🤣 &nbsp; Fun fact: I will let you know when I know it myself. Ha Ha Hi Hi Ho Ho 🤣🤣
