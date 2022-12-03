@@ -53,7 +53,7 @@
 <p align=center>
   <div align=center>
     <a href="" title="">
-      <img align="left" width=370 src="https://github-readme-stats.vercel.app/api/top-langs?username=gautamsingh102&show_icons=true&locale=en&layout=compact&theme=react" alt="gautamsingh102" />
+      <img align="left" width=370 src="https://github-readme-stats.vercel.app/api/top-langs/?username=gautamsingh102&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" alt="gautamsingh102" />
     </a>
     <a href="" title="">
       <img align="right" width=420 src="https://github-readme-stats.vercel.app/api?username=gautamsingh102&show_icons=true&locale=en&theme=react" alt="gautamsingh102" />
