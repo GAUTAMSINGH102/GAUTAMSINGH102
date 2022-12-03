@@ -14,14 +14,15 @@
   <code><a href="https://www.instagram.com/osman__durdag/" title="Instagram Profile"><img width="22" src="images/instagram.svg"> Instagram</a></code>
 </h5>
 <br>
+<br>
 <img align="right" height="250" width="375" alt="" src="images/side.gif" />
 
 ### Talking about Personal Stuffs:
 
 - 🛠 &nbsp; I’m currently working with Tensorflow, PyTorch, Keras, <br /> Flask, Django, Javascript, etc.
 - 🚀 &nbsp; I’m currently learning Machine Learning and Deep Learning.
-- 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/iampavangandhi).
-- 💬 &nbsp; Ask me about anything [here](https://github.com/iampavangandhi/iampavangandhi/issues/2)! I am happy to help.
+- 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/GAUTAMSINGH102).
+- 💬 &nbsp; Ask me about anything [here](https://github.com/GAUTAMSINGH102/GAUTAMSINGH102/issues/2)! I am happy to help.
 - 👾 &nbsp; Fun fact: I will let you know when I know it myself.
 - 📫 &nbsp; How to reach me: gautamsingh.00721@@gmail.com.
 - 📝 &nbsp; Checkout my [Resume]().
