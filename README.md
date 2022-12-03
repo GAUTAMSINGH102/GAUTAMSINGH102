@@ -53,7 +53,7 @@
 <p align=center>
   <div align=center>
     <a href="" title="">
-      <img align="left" width=370 src="https://github-readme-stats.vercel.app/api/top-langs/?username=gautamsingh102&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" alt="gautamsingh102" />
+      <img align="left" height=200 width=370 src="https://github-readme-stats.vercel.app/api/top-langs/?username=gautamsingh102&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" alt="gautamsingh102" />
     </a>
     <a href="" title="">
       <img align="right" height=200 width=420 src="https://github-readme-stats.vercel.app/api?username=gautamsingh102&show_icons=true&locale=en&theme=react" alt="gautamsingh102" />
@@ -62,7 +62,7 @@
   <br><br><br><br><br><br><br><br><br>
   <div align=center>
     <a href="">
-      <img width=420 align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gautamsingh102&theme=radical" alt="gautamsingh102" />
+      <img align=center width=420 align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gautamsingh102&theme=radical" alt="gautamsingh102" />
     </a>
   </div>
   <br>
