@@ -1,4 +1,4 @@
-[![MasterHead](images/banner.png)]()
+<!-- [![MasterHead](images/banner.png)]() -->
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
@@ -20,8 +20,8 @@
 
 - 🛠 &nbsp; I’m currently working with Tensorflow, PyTorch, Keras, <br /> Flask, Django, Javascript, etc.
 - 🚀 &nbsp; I’m currently learning Machine Learning and Deep Learning.
-- 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/GAUTAMSINGH102).
-- 💬 &nbsp; Ask me about anything [here](https://github.com/GAUTAMSINGH102/GAUTAMSINGH102/issues/2)! I am happy to help.
+- 🤝 &nbsp; Always ready to collaborate in Machine Learning or Deep Learning Projects.
+- 💬 &nbsp; Ask me about anything(Not Anything 😊) [here](https://github.com/GAUTAMSINGH102/GAUTAMSINGH102/issues/)!
 - 📝 &nbsp; Checkout my [Resume]().
 - 🤣 &nbsp; Fun fact: I will let you know when I know it myself. Ha Ha Hi Hi Ho Ho 🤣🤣
 
