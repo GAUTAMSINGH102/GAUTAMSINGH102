@@ -53,16 +53,16 @@
 <p align=center>
   <div align=center>
     <a href="" title="">
-      <img align="left" width=370 src="https://github-readme-stats.vercel.app/api/top-langs?username=gautamsingh102&show_icons=true&locale=en&layout=compact" alt="gautamsingh102" />
+      <img align="left" width=370 src="https://github-readme-stats.vercel.app/api/top-langs?username=gautamsingh102&show_icons=true&locale=en&layout=compact&theme=react" alt="gautamsingh102" />
     </a>
     <a href="" title="">
-      <img align="right" width=420 src="https://github-readme-stats.vercel.app/api?username=gautamsingh102&show_icons=true&locale=en" alt="gautamsingh102" />
+      <img align="right" width=420 src="https://github-readme-stats.vercel.app/api?username=gautamsingh102&show_icons=true&locale=en&theme=react" alt="gautamsingh102" />
     </a>
   </div>
   <br><br><br><br><br><br><br><br><br>
   <div align=center>
     <a href="">
-      <img width=410 align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gautamsingh102&" alt="gautamsingh102" />
+      <img width=410 align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gautamsingh102&theme=radical" alt="gautamsingh102" />
     </a>
   </div>
   <br>
