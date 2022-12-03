@@ -1,13 +1,15 @@
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Gautam+Singh....;Nice+to+meet+you!&center=true&size=40">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Gautam+Singh....;Nice+to+meet+you!&center=true&size=30">
   </a>
 </h1>
 
 <h5 align="center">
   <code><a href="" title="LinkedIn Profile"><img width="22" src="images/linkedin.png"> LinkedIn</a></code>
+  <code><a href="" title="Kaggle Profile"><img width="22" src="images/kaggle.webp"> Kaggle</a></code>
+  <code><a href="" title="Twitter Profile"><img width="22" src="images/twitter.png"> Twitter</a></code>
+  <code><a href="" title="StackOverflow Profile"><img width="22" src="images/stackoverflow.png"> StackOverflow</a></code>
 </h5>
-<br>
 <br>
 
 ### Talking about Personal Stuffs:
@@ -30,62 +32,38 @@
 - 📰 &nbsp; Reading & writing tech blogs whenever possible.
 - 🍕 &nbsp; Hackathons, meetups & tech events.
 
-<hr>
+<br>
 <h2 align="center">🔥 Languages & Frameworks & Tools & Abilities 🔥</h2>
 <br>
 <p align="center">
-  <code><img title="Python" width="25" height="25" src="images/python.png"></code>
-  <code><img title="tensorflow" width="25"  height="25" src="images/tensorflow.png"></code>
-  <code><img title="keras" width="25"  height="25" src="images/keras.png"></code>
-  <code><img title="javascript" width="25"  height="25" src="images/javascript.png"></code>
-  <code><img title="flask" width="25"  height="25" src="images/flask.png"></code>
-  <code><img title="android" width="25"  height="25" src="images/android.png"></code>
-  <code><img title="java" width="25"  height="25" src="images/java.png"></code>
+  <code><img title="Python" width="60" height="50" src="images/python.png"></code>
+  <code><img title="tensorflow" width="50"  height="50" src="images/tensorflow.png"></code>
+  <code><img title="keras" width="50"  height="50" src="images/keras.png"></code>
+  <code><img title="javascript" width="50"  height="50" src="images/javascript.png"></code>
+  <code><img title="flask" width="50"  height="50" src="images/flask.png"></code>
+  <code><img title="android" width="50"  height="50" src="images/android.png"></code>
+  <code><img title="java" width="60"  height="50" src="images/java.png"></code>
 </p>
-<hr>
+<br>
 
 
 
-<h2 align="center">⚡ Stats ⚡</h2>
+<h2 align="center">⚡ Github Statistics 👀</h2>
 <br>
 <p align=center>
   <div align=center>
     <a href="" title="">
-      <img align="left" width=390 src="https://github-readme-stats.vercel.app/api/top-langs?username=gautamsingh102&show_icons=true&locale=en&layout=compact" alt="gautamsingh102" />
+      <img align="left" width=370 src="https://github-readme-stats.vercel.app/api/top-langs?username=gautamsingh102&show_icons=true&locale=en&layout=compact" alt="gautamsingh102" />
     </a>
     <a href="" title="">
-      <img align="right" width=390 src="https://github-readme-stats.vercel.app/api?username=gautamsingh102&show_icons=true&locale=en" alt="gautamsingh102" />
+      <img align="right" width=420 src="https://github-readme-stats.vercel.app/api?username=gautamsingh102&show_icons=true&locale=en" alt="gautamsingh102" />
     </a>
   </div>
   <br><br><br><br><br><br><br><br><br>
   <div align=center>
     <a href="">
-      <img width=325 align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gautamsingh102&" alt="gautamsingh102" />
+      <img width=410 align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gautamsingh102&" alt="gautamsingh102" />
     </a>
   </div>
   <br>
-  <img src="https://activity-graph.herokuapp.com/graph?username=zumrudu-anka&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
 </p>
-
-<hr>
-
-<!--
-**zumrudu-anka/zumrudu-anka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-
-Notes: If you want use this readme, firstly star it please. If you can't align your repositories like this, please change your repository desription to shorter than now. Maybe 4 or 5 word will be good.
-
-![Metrics](https://metrics.lecoq.io/zumrudu-anka?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&achievements=1&achievements.threshold=C&achievements.secrets=true&achievements.limit=0&config.timezone=Europe%2FIstanbul)
-
--->
